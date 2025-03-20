@@ -45,5 +45,5 @@ python src/main_evaluate.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Citation
-If you use this code, please cite our article: 
+If you use this code, please cite: 
 > Le Coz, C. (2025). Code for "A barycenter-based approach for the multi-model ensembling of subseasonal forecasts" (v1.0). Zenodo. https://doi.org/10.5281/zenodo.15058502
