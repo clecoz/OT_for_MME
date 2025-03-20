@@ -13,7 +13,7 @@ This repository contains Python code for computing multi-model ensemble forecast
 - `src/main_evaluate.py`: Evaluates ensemble forecast performance and generates plots.
 - `src/evaluate_functions.py`: Functions for evaluating ensemble forecasts.
 - `src/read_data.py`: Functions for reading and formatting the data.
-- `data/`: Folder for input data (ensemble forecasts, climatology, and reference). The full dataset needed to reproduce the case study is available at .
+- `data/`: Folder for input data (ensemble forecasts, climatology, and reference). The full dataset needed to reproduce the case study is available on zenodo (https://doi.org/10.5281/zenodo.15038871).
 - `results/output/`: Stores output files (e.g. computed barycenters, evaluation metrics).
 - `results/plots/`: Contains generated plots.
 
@@ -40,3 +40,5 @@ python src/main_evaluate.py
 ```
 
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
